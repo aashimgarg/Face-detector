@@ -1,3 +1,5 @@
+## Face Detector
+
 This project is made using React framework. I have made this with react because it is easy to make ,easy to understand and it is easy to deploy as it can be deployed with Azure , Netlify , AWS Amlify etc. 
 When you will build your environment will have everything for example:- 
 1. React, JSX support which is required for the project.
