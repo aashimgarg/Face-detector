@@ -10,6 +10,8 @@ When you will build your environment will have everything for example:-
 
 The following commands will help you to build the project.
 
+``npm install
+``
  
 `` npm start
 ``
