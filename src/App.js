@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Navigtion from './components/Navigation/Navigation';
 import Logo from './components/Logo/Logo';
-import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
+import ImageLinkForm from './components/Image-Link-Form/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition'
 import SignIn from './components/SignIn/SignIn';
